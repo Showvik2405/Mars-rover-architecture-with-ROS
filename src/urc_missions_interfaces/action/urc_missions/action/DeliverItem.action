@@ -1,0 +1,11 @@
+# goal
+string item
+float32 x
+float32 y
+---
+# result
+bool success
+string note
+---
+# feedback
+string state

@@ -1,0 +1,8 @@
+[33mCMake Warning:
+  Ignoring extra path from command line:
+
+   "/home/showvik/urc_ws/src/urc_missions_interfaces"
+
+[0m
+[0mCMake Error: The source directory "/home/showvik/urc_ws/src/urc_missions_interfaces" does not appear to contain CMakeLists.txt.
+Specify --help for usage, or press the help button on the CMake GUI.[0m

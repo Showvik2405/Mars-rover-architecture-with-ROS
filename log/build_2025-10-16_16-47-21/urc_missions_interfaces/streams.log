@@ -1,0 +1,10 @@
+[0.038s] Invoking command in '/home/showvik/urc_ws/build/urc_missions_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/showvik/urc_ws/install/urc_missions:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/showvik/urc_ws/src/urc_missions_interfaces -DCMAKE_INSTALL_PREFIX=/home/showvik/urc_ws/install/urc_missions_interfaces
+[0.065s] [33mCMake Warning:
+[0.065s]   Ignoring extra path from command line:
+[0.065s] 
+[0.065s]    "/home/showvik/urc_ws/src/urc_missions_interfaces"
+[0.066s] 
+[0.066s] [0m
+[0.066s] [0mCMake Error: The source directory "/home/showvik/urc_ws/src/urc_missions_interfaces" does not appear to contain CMakeLists.txt.
+[0.066s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.071s] Invoked command in '/home/showvik/urc_ws/build/urc_missions_interfaces' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/showvik/urc_ws/install/urc_missions:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/showvik/urc_ws/src/urc_missions_interfaces -DCMAKE_INSTALL_PREFIX=/home/showvik/urc_ws/install/urc_missions_interfaces
