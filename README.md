@@ -120,6 +120,6 @@ Feel free to open issues or make pull requests.
 
 ---
 
-Would you also like me to prepare a **ready-to-paste `.gitignore` file** for ROS2 so that junk files like `build/`, `install/`, `log/`, and Python caches don’t get uploaded?
+
 
 
